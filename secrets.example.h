@@ -5,3 +5,4 @@
 #define MQTT_PORT     1884
 #define MQTT_USER     "user"
 #define MQTT_PASS     "pass"
+#define MQTT_TOPIC_SUB "energy/Power_cur"
