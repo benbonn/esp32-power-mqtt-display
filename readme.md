@@ -86,25 +86,11 @@ Using Arduino IDE:
 -   Real-time grid consumption display
 -   PV surplus monitoring
 -   Battery discharge/charge visualization
--   Smart home energy dashboards
--   IoT telemetry node
 
 ## Future Extensions
 
 Possible next steps:
 
 -   OTA firmware updates\
--   JSON payload support\
--   Multiple MQTT topics (PV / Grid / Battery)\
--   WiFi captive portal setup\
--   Deep sleep mode\
--   Home Assistant auto-discovery
+-   Webinterface with additional visualization
 
-## License
-
-Private project (initial stage).\
-License will be added if/when repository becomes public.
-
-## Author
-
-ESP32 energy node for personal home energy monitoring setup.
