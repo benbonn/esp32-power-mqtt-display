@@ -5,4 +5,11 @@
 #define MQTT_PORT     1884
 #define MQTT_USER     "user"
 #define MQTT_PASS     "pass"
-#define MQTT_TOPIC_SUB "energy/Power_cur"
+
+// Topic for Power only
+#define TOPIC_CUR  "energy/Power_cur"
+
+// Topics needed for version with battery
+#define TOPIC_BATT "energy/Power_batt"
+#define TOPIC_CUR  "energy/Power_cur"
+
