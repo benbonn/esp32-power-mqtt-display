@@ -87,6 +87,24 @@ Using Arduino IDE:
 -   PV surplus monitoring
 -   Battery discharge/charge visualization
 
+
+## Enclosure
+
+This project uses the following 3D printable enclosure:
+
+ESP32 16x2 LCD LoRa Case
+https://www.printables.com/model/611802-esp32-16x2-lcd-lora-case-enclosure
+
+Author: original creator on Printables
+License: Creative Commons BY-NC-SA 4.0
+
+This means:
+attribution required
+non-commercial use only
+derivatives must be shared under the same license
+The enclosure is NOT included in this repository.
+
+
 ## Future Extensions
 
 Possible next steps:
