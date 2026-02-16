@@ -6,6 +6,18 @@ the current value on a 16x2 I2C LCD.
 Designed for home energy monitoring setups (PV, grid consumption,
 battery systems, ioBroker, Home Assistant, Node-RED).
 
+### Basic Mode – Track Household Energy Consumption
+
+<img src="https://github.com/user-attachments/assets/6a740811-acaa-4ccb-8873-a1cda118de7d" width="50%" />
+
+### Pro Mode – Complete Energy Flow: PV, Battery, SOC, Grid Import & Export
+<img src="https://github.com/user-attachments/assets/94e97477-6a61-4da7-887f-9e60f83f0886" width="50%" />
+
+
+
+
+
+
 ## Features
 
 -   MQTT subscription to real-time power data\
